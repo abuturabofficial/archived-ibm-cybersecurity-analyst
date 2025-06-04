@@ -1,6 +1,6 @@
 # **Archival Notice:**
 
-I have archived this repo and moved all my notes (new and old) to [wiki.cyberfront.me](https://wiki.cyberfront.me)
+I have archived this repo and moved all my notes (new and old) to [wiki.sajidmahmood.com](https://wiki.sajidmahmood.com)
 
 ![image](https://github.com/user-attachments/assets/49ede395-d2f6-432d-89b7-fc3de4806023)
 
